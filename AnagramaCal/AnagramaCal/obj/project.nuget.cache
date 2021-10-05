@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "wSDAuWEWSBLj6/Yn88+Cq5NKsc7XyD52cXx93tA1foXgN7dTz0nGWHMnhnrvyicWbBKIL9JpIvNj/o/O+G84NA==",
+  "success": false,
+  "projectFilePath": "C:\\Practicas\\AnagramaCal\\AnagramaCal\\AnagramaCal.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Swashbuckle.AspNetCore. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

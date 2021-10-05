@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "aeW/+ryLCuLW8sC3aFaXszCo8GSOj7gCOGtYdgHbmml1o8ptrmEx4hVgvWzKKWv9WHtOspE36q/5QlrYRvpLCw==",
+  "success": false,
+  "projectFilePath": "C:\\Practicas\\IMCCalculaar\\IMCCalculaar\\IMCCalculaar.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Swashbuckle.AspNetCore. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

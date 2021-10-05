@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XHLj7n/qCRDgU7HMtMBUqG1r3TCX2lR9Robetz9AKCmGznnyJGFO6f74crv6Y/+VFZkMaGDc38XTBAF+vrMoA==",
+  "success": false,
+  "projectFilePath": "C:\\Practicas\\PalindromosCal\\PalindromosCal\\PalindromosCal.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Swashbuckle.AspNetCore. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
